@@ -1,0 +1,7 @@
+import org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor.DubboConfigEarlyInitializationPostProcessor;
+public class FunctionUse856 {
+public void funcUse() {
+DubboConfigEarlyInitializationPostProcessor dubboconfigearlyinitializationpostprocessor = new DubboConfigEarlyInitializationPostProcessor();
+dubboconfigearlyinitializationpostprocessor.hasRegisteredCommonAnnotationBeanPostProcessor();
+}
+}

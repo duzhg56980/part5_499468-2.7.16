@@ -1,0 +1,6 @@
+import org.apache.dubbo.metadata.report.identifier.KeyTypeEnum;
+public class FunctionUse13664 {
+public void funcUse() {
+KeyTypeEnum keytypeenum = new KeyTypeEnum();
+}
+}
